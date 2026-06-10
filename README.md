@@ -1,5 +1,7 @@
 # AI-Native Autonomous Operations Portfolio
 
+![AI-Native Autonomous Operations Architecture](diagrams/ai-native-autonomous-operations-architecture.png)
+
 Architectures, operational models, and technical thought leadership content focused on autonomous AI operations and modern AI infrastructure platforms.
 
 ---

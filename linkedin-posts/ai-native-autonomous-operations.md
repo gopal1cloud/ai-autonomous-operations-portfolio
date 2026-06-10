@@ -1,5 +1,7 @@
 # AI-Native Autonomous Operations Architecture
 
+![AI-Native Autonomous Operations Architecture](../diagrams/ai-native-autonomous-operations-architecture.png)
+
 ## Securing and Governing Agentic AI Workloads on Modern GPU Infrastructure
 
 As AI systems become more autonomous, modern infrastructure operations are evolving rapidly.

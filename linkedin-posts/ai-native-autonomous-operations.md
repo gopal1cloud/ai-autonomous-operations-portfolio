@@ -93,31 +93,6 @@ The future of operations will not just be automated — it will be contextual, i
 
 ---
 
-## Architecture Diagram
-
-> Refer to the architecture diagram available in the `/diagrams` directory.
-
----
-
-## Repository Structure
-
-```text id="i7xq3f"
-ai-autonomous-operations-portfolio/
-│
-├── README.md
-│
-├── diagrams/
-│   ├── ai-native-autonomous-operations-architecture.png
-│
-├── linkedin-posts/
-│   ├── ai-native-autonomous-operations.md
-│
-└── assets/
-    ├── images
-```
-
----
-
 ## Connect
 
 LinkedIn

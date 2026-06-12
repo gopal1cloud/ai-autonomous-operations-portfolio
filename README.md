@@ -35,6 +35,12 @@ Key concepts explored:
 
 ---
 
+## Architecture Diagram
+
+> Refer to the architecture diagram available in the `/diagrams` directory.
+
+---
+
 ## Repository Structure
 
 ```text id="9sm3r2"

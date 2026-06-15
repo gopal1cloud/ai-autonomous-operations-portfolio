@@ -115,4 +115,4 @@ Gopalasivam Palaniappan
 
 AI Infrastructure | Autonomous AI Operations | Platform Engineering
 
-Always learning, Always building.
+💡 Always learning, Always building.

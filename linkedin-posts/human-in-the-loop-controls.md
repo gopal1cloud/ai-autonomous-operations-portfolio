@@ -1,12 +1,12 @@
 # Human-in-the-Loop Controls Are Not a Weakness
 
-**Post Number:** 4
-**Status:** Scheduled
-**Published Platform:** LinkedIn
-**LinkedIn Publish Date:** 2026-06-18
-**LinkedIn URL:** Pending
-**Category:** AI Governance
-**Tags:** AI, AgenticAI, AIOps, PlatformEngineering, AutonomousAIOperations, AIGovernance, HumanInTheLoop, ResponsibleAI
+**Post Number:** 4  
+**Status:** Scheduled  
+**Published Platform:** LinkedIn  
+**LinkedIn Publish Date:** 2026-06-18  
+**LinkedIn URL:** Pending  
+**Category:** AI Governance  
+**Tags:** AI, AgenticAI, AIOps, PlatformEngineering, AutonomousAIOperations, AIGovernance, HumanInTheLoop, ResponsibleAI  
 
 ![Human-in-the-Loop Controls](../diagrams/human-in-the-loop-controls.png)
 

@@ -3,7 +3,7 @@
 **Status:** Published  
 **Published Platform:** LinkedIn  
 **LinkedIn Publish Date:** 2026-06-12  
-**LinkedIn URL:** https://www.linkedin.com/posts/gopalasivam_ai-agenticai-aiops-activity-7471222416204058624-7KYe
+**LinkedIn URL:** https://www.linkedin.com/posts/gopalasivam_ai-agenticai-aiops-activity-7471222416204058624-7KYe  
 **Category:** Autonomous AI Operations  
 **Tags:** AI, AgenticAI, AIOps, PlatformEngineering, AutonomousAIOperations, Automation, OperationalIntelligence
 

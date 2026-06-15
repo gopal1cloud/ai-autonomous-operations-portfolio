@@ -1,5 +1,6 @@
 # Automation vs Autonomous Operations
 
+**Post Number:** 2  
 **Status:** Published  
 **Published Platform:** LinkedIn  
 **LinkedIn Publish Date:** 2026-06-12  
@@ -55,4 +56,4 @@ Gopalasivam Palaniappan
 
 AI Infrastructure | Autonomous AI Operations | Platform Engineering
 
-Always learning, Always building.
+💡 Always learning, Always building.

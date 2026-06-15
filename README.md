@@ -2,7 +2,7 @@
 
 ![AI-Native Autonomous Operations Architecture](diagrams/ai-native-autonomous-operations-architecture.png)
 
-Architectures, operational models, and technical thought leadership content focused on autonomous AI operations and modern AI infrastructure platforms.
+A portfolio of architecture designs, operational models, technical publications, and thought leadership content focused on AI Infrastructure, Autonomous AI Operations, and Platform Engineering.
 
 ---
 
@@ -35,15 +35,25 @@ Key concepts explored:
 
 ---
 
-## Architecture Diagram
+## Publications
 
-> Refer to the architecture diagram available in the `/diagrams` directory.
+Technical thought leadership content and publication archive:
+
+* [LinkedIn Publications](linkedin-posts/README.md)
+* [Content Roadmap](CONTENT-ROADMAP.md)
+
+### Current Publication Series
+
+1. AI-Native Autonomous Operations Architecture
+2. Automation vs Autonomous Operations
+3. Why AI-Aware Observability Matters for Autonomous AI Systems
+4. Human-in-the-Loop Controls Are Not a Weakness
 
 ---
 
 ## Repository Structure
 
-```text id="9sm3r2"
+```text
 ai-autonomous-operations-portfolio/
 │
 ├── README.md
@@ -51,22 +61,21 @@ ai-autonomous-operations-portfolio/
 │
 ├── diagrams/
 ├── linkedin-posts/
-└── assets/
+├── assets/
+├── presentations/
+└── references/
 ```
 
 ---
 
 ## Connect
 
-LinkedIn
-https://linkedin.com/in/gopalasivam
-
-GitHub
-https://github.com/gopal1cloud
+* LinkedIn: https://linkedin.com/in/gopalasivam
+* GitHub: https://github.com/gopal1cloud
 
 ---
 
-Gopalasivam Palaniappan
+**Gopalasivam Palaniappan**
 
 AI Infrastructure | Autonomous AI Operations | Platform Engineering
 

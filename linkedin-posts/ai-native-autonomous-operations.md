@@ -1,5 +1,6 @@
 # AI-Native Autonomous Operations Architecture
 
+**Post Number:** 1
 **Status:** Published  
 **Published Platform:** LinkedIn  
 **LinkedIn Publish Date:** 2026-06-10  

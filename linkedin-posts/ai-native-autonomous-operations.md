@@ -1,5 +1,12 @@
 # AI-Native Autonomous Operations Architecture
 
+**Status:** Published  
+**Published Platform:** LinkedIn  
+**LinkedIn Publish Date:** 2026-06-10  
+**LinkedIn URL:** https://www.linkedin.com/posts/gopalasivam_ai-agenticai-aiops-activity-7470500933324627968-t9Hx  
+**Category:** Autonomous AI Operations  
+**Tags:** AI, AgenticAI, AIOps, PlatformEngineering, Observability
+
 ![AI-Native Autonomous Operations Architecture](../diagrams/ai-native-autonomous-operations-architecture.png)
 
 ## Securing and Governing Agentic AI Workloads on Modern GPU Infrastructure

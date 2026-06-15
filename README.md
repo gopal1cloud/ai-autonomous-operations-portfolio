@@ -47,11 +47,10 @@ Key concepts explored:
 ai-autonomous-operations-portfolio/
 │
 ├── README.md
+├── CONTENT-ROADMAP.md
 │
 ├── diagrams/
-│
 ├── linkedin-posts/
-│
 └── assets/
 ```
 
@@ -71,4 +70,4 @@ Gopalasivam Palaniappan
 
 AI Infrastructure | Autonomous AI Operations | Platform Engineering
 
-Always learning, Always building.
+💡 Always learning, Always building.

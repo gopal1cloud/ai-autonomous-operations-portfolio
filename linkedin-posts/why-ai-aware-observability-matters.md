@@ -1,5 +1,6 @@
 # Why AI-Aware Observability Matters for Autonomous AI Systems
 
+**Post Number:** 3  
 **Status:** Scheduled  
 **Published Platform:** LinkedIn  
 **LinkedIn Publish Date:** 2026-06-16  

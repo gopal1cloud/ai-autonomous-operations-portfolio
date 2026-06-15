@@ -1,5 +1,12 @@
 # Why AI-Aware Observability Matters for Autonomous AI Systems
 
+**Status:** Scheduled  
+**Published Platform:** LinkedIn  
+**LinkedIn Publish Date:** 2026-06-16  
+**LinkedIn URL:** Pending  
+**Category:** Autonomous AI Operations  
+**Tags:** AI, AgenticAI, AIOps, PlatformEngineering, AutonomousAIOperations, Observability, Telemetry, OperationalVisibility
+
 ![Why AI-Aware Observability Matters](../diagrams/why-ai-aware-observability-matters.png)
 
 ## You can't govern what you can't observe.

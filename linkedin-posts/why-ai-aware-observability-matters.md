@@ -1,10 +1,10 @@
 # Why AI-Aware Observability Matters for Autonomous AI Systems
 
 **Post Number:** 3  
-**Status:** Scheduled  
+**Status:** Published  
 **Published Platform:** LinkedIn  
 **LinkedIn Publish Date:** 2026-06-16  
-**LinkedIn URL:** -  
+**LinkedIn URL:** https://www.linkedin.com/posts/gopalasivam_ai-agenticai-aiops-share-7472749066070708224-vGti  
 **Category:** Autonomous AI Operations  
 **Tags:** AI, AgenticAI, AIOps, PlatformEngineering, AutonomousAIOperations, Observability, Telemetry, OperationalVisibility
 

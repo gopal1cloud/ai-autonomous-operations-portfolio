@@ -16,17 +16,15 @@ Automation vs Autonomous Operations
 
 Published: 2026-06-12
 
----
-
-## Scheduled
-
 ### Post #3
 
 Why AI-Aware Observability Matters for Autonomous AI Systems
 
-Status: Scheduled
-
 Publish Date: 2026-06-16
+
+---
+
+## Scheduled
 
 ### Post #4
 

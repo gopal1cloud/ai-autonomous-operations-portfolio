@@ -22,33 +22,35 @@ Why AI-Aware Observability Matters for Autonomous AI Systems
 
 Publish Date: 2026-06-16
 
----
-
-## Scheduled
-
 ### Post #4
 
 Human-in-the-Loop Controls Are Not a Weakness
-
-Status: Scheduled
 
 Publish Date: 2026-06-18
 
 ---
 
-## Backlog
+## Scheduled
 
 ### Post #5
 
 Telemetry-Driven Intelligence for Autonomous Operations
 
-Status: Idea
+Status: To be scheduled
+
+Publish Date: -
 
 ### Post #6
 
 Governance for AI Agents
 
-Status: Idea
+Status: To be scheduled
+
+Publish Date: -
+
+---
+
+## Backlog
 
 ### Post #7
 

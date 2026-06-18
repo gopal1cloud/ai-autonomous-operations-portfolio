@@ -1,10 +1,10 @@
 # Human-in-the-Loop Controls Are Not a Weakness
 
 **Post Number:** 4  
-**Status:** Scheduled  
+**Status:** Published  
 **Published Platform:** LinkedIn  
 **LinkedIn Publish Date:** 2026-06-18  
-**LinkedIn URL:** -  
+**LinkedIn URL:** https://www.linkedin.com/posts/gopalasivam_ai-agenticai-aiops-share-7473515997077884929-qY61  
 **Category:** AI Governance  
 **Tags:** AI, AgenticAI, AIOps, PlatformEngineering, AutonomousAIOperations, AIGovernance, HumanInTheLoop, ResponsibleAI  
 

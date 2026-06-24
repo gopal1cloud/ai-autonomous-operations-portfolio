@@ -1,10 +1,10 @@
 # Telemetry-Driven Intelligence for Autonomous Operations
 
 **Post Number:** 5  
-**Status:** Scheduled  
+**Status:** Published  
 **Published Platform:** LinkedIn  
 **LinkedIn Publish Date:** 2026-06-23  
-**LinkedIn URL:** Pending  
+**LinkedIn URL:** https://www.linkedin.com/posts/gopalasivam_ai-agenticai-aiops-share-7475420074015821825-m2Jd  
 **Category:** Autonomous AI Operations  
 **Tags:** AI, AgenticAI, AIOps, PlatformEngineering, Observability, OperationalIntelligence, AutonomousOperations  
 

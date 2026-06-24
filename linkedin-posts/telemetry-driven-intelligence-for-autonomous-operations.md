@@ -1,12 +1,12 @@
 # Telemetry-Driven Intelligence for Autonomous Operations
 
-**Post Number:** 5
-**Status:** Scheduled
-**Published Platform:** LinkedIn
-**LinkedIn Publish Date:** 2026-06-23
-**LinkedIn URL:** Pending
-**Category:** Autonomous AI Operations
-**Tags:** AI, AgenticAI, AIOps, PlatformEngineering, Observability, OperationalIntelligence, AutonomousOperations
+**Post Number:** 5  
+**Status:** Scheduled  
+**Published Platform:** LinkedIn  
+**LinkedIn Publish Date:** 2026-06-23  
+**LinkedIn URL:** Pending  
+**Category:** Autonomous AI Operations  
+**Tags:** AI, AgenticAI, AIOps, PlatformEngineering, Observability, OperationalIntelligence, AutonomousOperations  
 
 ![Telemetry-Driven Intelligence for Autonomous Operations](../diagrams/telemetry-driven-intelligence-for-autonomous-operations.png)
 

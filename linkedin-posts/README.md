@@ -20,7 +20,7 @@ The goal of this publication series is to explore the evolving intersection of A
 | 3      | Why AI-Aware Observability Matters for Autonomous AI Systems | Published | 2026-06-16   | [Post](https://www.linkedin.com/posts/gopalasivam_ai-agenticai-aiops-share-7472749066070708224-vGti)     | [MD](./why-ai-aware-observability-matters.md) |
 | 4      | Human-in-the-Loop Controls Are Not a Weakness                | Published | 2026-06-18   | [Post](https://www.linkedin.com/posts/gopalasivam_ai-agenticai-aiops-share-7473515997077884929-qY61)     | [MD](./human-in-the-loop-controls.md) |
 | 5      | Telemetry-Driven Intelligence for Autonomous Operations      | Published | 2026-06-23   | [Post](https://www.linkedin.com/posts/gopalasivam_ai-agenticai-aiops-share-7475420074015821825-m2Jd)     | [MD](./telemetry-driven-intelligence-for-autonomous-operations.md) |
-| 6      | Human-in-the-Loop Controls Are Not a Weakness                | Scheduled | 2026-06-25   | -   | [MD](./governance-for-ai-agents.md) |
+| 6      | Governance for AI Agents                                     | Scheduled | 2026-06-25   | -   | [MD](./governance-for-ai-agents.md) |
 
 ## Topics Covered
 

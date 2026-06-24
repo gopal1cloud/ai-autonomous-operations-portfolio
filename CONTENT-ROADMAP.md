@@ -28,25 +28,23 @@ Human-in-the-Loop Controls Are Not a Weakness
 
 Publish Date: 2026-06-18
 
----
-
-## Scheduled
-
 ### Post #5
 
 Telemetry-Driven Intelligence for Autonomous Operations
 
-Status: To be scheduled
+Publish Date: 2026-06-23
 
-Publish Date: -
+---
+
+## Scheduled
 
 ### Post #6
 
 Governance for AI Agents
 
-Status: To be scheduled
+Status: Scheduled
 
-Publish Date: -
+Publish Date: 2026-06-25
 
 ---
 

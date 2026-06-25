@@ -1,10 +1,10 @@
 # Governance for AI Agents
 
 **Post Number:** 6  
-**Status:** Scheduled  
+**Status:** Published  
 **Published Platform:** LinkedIn  
 **LinkedIn Publish Date:** 2026-06-25  
-**LinkedIn URL:** Pending  
+**LinkedIn URL:** https://www.linkedin.com/posts/gopalasivam_ai-agenticai-aiops-share-7476024648984449024-JEzL  
 **Category:** AI Governance  
 **Tags:** AI, AgenticAI, AIOps, AIGovernance, ResponsibleAI, PlatformEngineering, AutonomousOperations, HumanInTheLoop  
 

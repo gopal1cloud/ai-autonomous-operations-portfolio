@@ -34,27 +34,27 @@ Telemetry-Driven Intelligence for Autonomous Operations
 
 Publish Date: 2026-06-23
 
----
-
-## Scheduled
-
 ### Post #6
 
 Governance for AI Agents
-
-Status: Scheduled
 
 Publish Date: 2026-06-25
 
 ---
 
-## Backlog
+## Scheduled
 
 ### Post #7
 
 Autonomous Remediation Beyond Traditional Automation
 
-Status: Idea
+Status: To be scheduled
+
+Publish Date: -
+
+---
+
+## Backlog
 
 ### Post #8
 

@@ -1,14 +1,16 @@
 # Content Roadmap
 
-This document tracks future content ideas, publication themes, and planned thought leadership topics related to AI Infrastructure, Autonomous AI Operations, Platform Engineering, and AI Governance.
+This document tracks future content ideas, publication themes, and the thought leadership roadmap for AI Infrastructure, Autonomous AI Operations, Platform Engineering, and AI Governance.
 
-## Published
+---
 
-See the publication archive:
+## Publication Archive
 
-- [LinkedIn Publications](linkedin-posts/README.md)
+Published posts are maintained in the publication index.
 
-Current published posts: 6
+* [LinkedIn Publications](linkedin-posts/README.md)
+
+**Current Published Posts:** 6
 
 ---
 
@@ -16,19 +18,21 @@ Current published posts: 6
 
 ### Post #7
 
-Autonomous Remediation Beyond Traditional Automation
+**Autonomous Remediation Beyond Traditional Automation**
 
-Status: To be scheduled
+**Status:** To be scheduled
 
-Publish Date: -
+**Target Publish Window:** Tuesday
+
+---
 
 ### Post #8
 
-Building Trustworthy AI Infrastructure
+**Building Trustworthy AI Infrastructure**
 
-Status: To be scheduled
+**Status:** To be scheduled
 
-Publish Date: -
+**Target Publish Window:** Thursday
 
 ---
 
@@ -36,21 +40,25 @@ Publish Date: -
 
 ### Post #9
 
-Decision Intelligence for AI Operations
+**Decision Intelligence for AI Operations**
 
-Status: Idea
-
-### Post #10
-
-Policy-as-Code for AI Agents
-
-Status: Idea
+**Status:** Idea
 
 ---
 
-## Future Topics
+### Post #10
 
-### AI Operations
+**Policy-as-Code for AI Agents**
+
+**Status:** Idea
+
+---
+
+# Future Themes
+
+The following topics represent the long-term publication roadmap.
+
+## AI Operations
 
 * Autonomous Incident Response
 * AI-Native Operational Intelligence
@@ -58,7 +66,9 @@ Status: Idea
 * AI-Aware Infrastructure Monitoring
 * Autonomous Remediation Workflows
 
-### Governance & Trust
+---
+
+## Governance & Trust
 
 * Governance for AI Agents
 * Human-in-the-Loop Controls
@@ -66,7 +76,9 @@ Status: Idea
 * Responsible AI Operations
 * Operational Guardrails for Autonomous Systems
 
-### Platform Engineering
+---
+
+## Platform Engineering
 
 * Platform Engineering for AI Workloads
 * Cloud-Native AI Platforms
@@ -74,7 +86,9 @@ Status: Idea
 * AI Infrastructure Lifecycle Management
 * AI Platform Reliability
 
-### Observability
+---
+
+## Observability
 
 * AI-Aware Observability
 * Observability for Agentic Systems
@@ -82,23 +96,39 @@ Status: Idea
 * Operational Visibility for Autonomous Workloads
 * Telemetry Correlation and Context
 
-### Enterprise AI Platforms
+---
 
-* Multi-agent operations
-* AI infrastructure lifecycle
-* GPU operations
-* Platform engineering
-* OpenShift AI
-* Kubernetes AI platforms
+## Enterprise AI Platforms
 
-### AI Security
+* Multi-Agent Operations
+* AI Platform Orchestration
+* GPU Infrastructure Operations
+* OpenShift AI Platforms
+* Kubernetes AI Platforms
+* AI Infrastructure Automation
+
+---
+
+## AI Security
 
 * AI Defense
-* Prompt injection
-* AI guardrails
-* Agent identity
-* AI governance
-* Secure AI operations
+* Prompt Injection Protection
+* AI Guardrails
+* Agent Identity
+* Secure AI Operations
+* AI Compliance Frameworks
+
+---
+
+## Long-Term Goals
+
+Over time, selected LinkedIn posts may evolve into:
+
+* Technical blog articles
+* Conference presentations
+* Architecture reference guides
+* White papers
+* Open-source reference implementations
 
 ---
 

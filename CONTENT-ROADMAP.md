@@ -60,13 +60,27 @@ Status: To be scheduled
 
 Publish Date: -
 
+### Post #8
+
+Building Trustworthy AI Infrastructure
+
+Status: To be scheduled
+
+Publish Date: -
+
 ---
 
 ## Backlog
 
-### Post #8
+### Post #9
 
-Building Trustworthy AI Infrastructure
+Decision Intelligence for AI Operations
+
+Status: Idea
+
+### Post #10
+
+Policy-as-Code for AI Agents
 
 Status: Idea
 
@@ -105,6 +119,24 @@ Status: Idea
 * Decision Traceability
 * Operational Visibility for Autonomous Workloads
 * Telemetry Correlation and Context
+
+### Enterprise AI Platforms
+
+Multi-agent operations
+AI infrastructure lifecycle
+GPU operations
+Platform engineering
+OpenShift AI
+Kubernetes AI platforms
+
+### AI Security
+
+AI Defense
+Prompt injection
+AI guardrails
+Agent identity
+AI governance
+Secure AI operations
 
 ---
 

@@ -1,6 +1,6 @@
 # Content Roadmap
 
-This document tracks future content ideas, publication themes, and the thought leadership roadmap for AI Infrastructure, Autonomous AI Operations, Platform Engineering, and AI Governance.
+This document tracks future content ideas, publication themes, and the long-term thought leadership roadmap for **AI Infrastructure**, **Autonomous AI Operations**, **Platform Engineering**, and **AI Governance**.
 
 ---
 
@@ -14,13 +14,13 @@ Published posts are maintained in the publication index.
 
 ---
 
-## Scheduled
+## Upcoming Publications
 
 ### Post #7
 
 **Autonomous Remediation Beyond Traditional Automation**
 
-**Status:** To be scheduled
+**Status:** Planned
 
 **Target Publish Window:** Tuesday
 
@@ -30,7 +30,7 @@ Published posts are maintained in the publication index.
 
 **Building Trustworthy AI Infrastructure**
 
-**Status:** To be scheduled
+**Status:** Planned
 
 **Target Publish Window:** Thursday
 
@@ -122,7 +122,7 @@ The following topics represent the long-term publication roadmap.
 
 ## Long-Term Goals
 
-Over time, selected LinkedIn posts may evolve into:
+Selected publication topics may evolve into:
 
 * Technical blog articles
 * Conference presentations

@@ -4,44 +4,6 @@ This document tracks future content ideas, publication themes, and planned thoug
 
 ## Published
 
-### Post #1
-
-AI-Native Autonomous Operations Architecture
-
-Published: 2026-06-10
-
-### Post #2
-
-Automation vs Autonomous Operations
-
-Published: 2026-06-12
-
-### Post #3
-
-Why AI-Aware Observability Matters for Autonomous AI Systems
-
-Publish Date: 2026-06-16
-
-### Post #4
-
-Human-in-the-Loop Controls Are Not a Weakness
-
-Publish Date: 2026-06-18
-
-### Post #5
-
-Telemetry-Driven Intelligence for Autonomous Operations
-
-Publish Date: 2026-06-23
-
-### Post #6
-
-Governance for AI Agents
-
-Publish Date: 2026-06-25
-
-## Published
-
 See the publication archive:
 
 - [LinkedIn Publications](linkedin-posts/README.md)
@@ -122,21 +84,21 @@ Status: Idea
 
 ### Enterprise AI Platforms
 
-Multi-agent operations
-AI infrastructure lifecycle
-GPU operations
-Platform engineering
-OpenShift AI
-Kubernetes AI platforms
+* Multi-agent operations
+* AI infrastructure lifecycle
+* GPU operations
+* Platform engineering
+* OpenShift AI
+* Kubernetes AI platforms
 
 ### AI Security
 
-AI Defense
-Prompt injection
-AI guardrails
-Agent identity
-AI governance
-Secure AI operations
+* AI Defense
+* Prompt injection
+* AI guardrails
+* Agent identity
+* AI governance
+* Secure AI operations
 
 ---
 

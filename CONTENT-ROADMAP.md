@@ -40,6 +40,14 @@ Governance for AI Agents
 
 Publish Date: 2026-06-25
 
+## Published
+
+See the publication archive:
+
+- [LinkedIn Publications](linkedin-posts/README.md)
+
+Current published posts: 6
+
 ---
 
 ## Scheduled

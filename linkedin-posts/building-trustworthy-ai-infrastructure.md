@@ -6,7 +6,7 @@
 **LinkedIn Publish Date:** 2026-07-02  
 **LinkedIn URL:** Pending  
 **Category:** AI Infrastructure  
-**Tags:** AI, AgenticAI, AIInfrastructure, AutonomousOperations, PlatformEngineering, ResponsibleAI, Observability, Governance
+**Tags:** AI, AgenticAI, AIOps, AIInfrastructure, AutonomousOperations, PlatformEngineering, ResponsibleAI, Observability, Governance
 
 ![Building Trustworthy AI Infrastructure](../diagrams/building-trustworthy-ai-infrastructure.png)
 

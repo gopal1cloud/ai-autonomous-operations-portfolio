@@ -62,7 +62,7 @@ ai-autonomous-operations-portfolio/
 ├── diagrams/
 ├── linkedin-posts/
 ├── assets/
-├── presentations/
+├── articles/
 └── references/
 ```
 

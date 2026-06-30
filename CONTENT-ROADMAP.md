@@ -10,21 +10,11 @@ Published posts are maintained in the publication index.
 
 * [LinkedIn Publications](linkedin-posts/README.md)
 
-**Current Published Posts:** 6
+**Current Published Posts:** 
 
 ---
 
 ## Upcoming Publications
-
-### Post #7
-
-**Autonomous Remediation Beyond Traditional Automation**
-
-**Status:** Scheduled
-
-**Target Publish Window:** 2026-06-30
-
----
 
 ### Post #8
 

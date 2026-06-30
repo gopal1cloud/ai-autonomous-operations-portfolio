@@ -21,6 +21,7 @@ The goal of this publication series is to explore the evolving intersection of A
 | 4      | Human-in-the-Loop Controls Are Not a Weakness                | Published | 2026-06-18   | [Post](https://www.linkedin.com/posts/gopalasivam_ai-agenticai-aiops-share-7473515997077884929-qY61)     | [MD](./human-in-the-loop-controls.md) |
 | 5      | Telemetry-Driven Intelligence for Autonomous Operations      | Published | 2026-06-23   | [Post](https://www.linkedin.com/posts/gopalasivam_ai-agenticai-aiops-share-7475420074015821825-m2Jd)     | [MD](./telemetry-driven-intelligence-for-autonomous-operations.md) |
 | 6      | Governance for AI Agents                                     | Published | 2026-06-25   | [Post](https://www.linkedin.com/posts/gopalasivam_ai-agenticai-aiops-share-7476024648984449024-JEzL)   | [MD](./governance-for-ai-agents.md) |
+| 7      | Autonomous Remediation Beyond Traditional Automation         | Published | 2026-06-30   | [Post](https://www.linkedin.com/posts/gopalasivam_ai-agenticai-aiops-activity-7477749012553490432-6kJw)   | [MD](./autonomous-remediation-beyond-traditional-automation.md) |
 
 ## Topics Covered
 

@@ -10,7 +10,7 @@ Published posts are maintained in the publication index.
 
 * [LinkedIn Publications](linkedin-posts/README.md)
 
-**Current Published Posts:** 
+**Current Published Posts:** 7  
 
 ---
 

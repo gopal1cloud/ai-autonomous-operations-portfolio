@@ -20,9 +20,9 @@ Published posts are maintained in the publication index.
 
 **Autonomous Remediation Beyond Traditional Automation**
 
-**Status:** Planned
+**Status:** Scheduled
 
-**Target Publish Window:** Tuesday
+**Target Publish Window:** 2026-06-30
 
 ---
 
@@ -30,9 +30,9 @@ Published posts are maintained in the publication index.
 
 **Building Trustworthy AI Infrastructure**
 
-**Status:** Planned
+**Status:** Scheduled
 
-**Target Publish Window:** Thursday
+**Target Publish Window:** 2026-07-02
 
 ---
 

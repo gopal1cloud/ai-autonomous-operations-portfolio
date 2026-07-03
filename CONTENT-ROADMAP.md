@@ -10,31 +10,23 @@ Published posts are maintained in the publication index.
 
 * [LinkedIn Publications](linkedin-posts/README.md)
 
-**Current Published Posts:** 7  
+**Current Published Posts:** 8  
 
 ---
 
 ## Upcoming Publications
 
-### Post #8
-
-**Building Trustworthy AI Infrastructure**
-
-**Status:** Scheduled
-
-**Target Publish Window:** 2026-07-02
-
----
-
-## Backlog
-
 ### Post #9
 
 **Decision Intelligence for AI Operations**
 
-**Status:** Idea
+**Status:** To be Scheduled
+
+**Target Publish Window:** Tuesday
 
 ---
+
+## Backlog
 
 ### Post #10
 

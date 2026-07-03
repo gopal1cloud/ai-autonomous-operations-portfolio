@@ -1,10 +1,10 @@
 # Building Trustworthy AI Infrastructure
 
 **Post Number:** 8  
-**Status:** Scheduled  
+**Status:** Published  
 **Published Platform:** LinkedIn  
 **LinkedIn Publish Date:** 2026-07-02  
-**LinkedIn URL:** Pending  
+**LinkedIn URL:** https://www.linkedin.com/posts/gopalasivam_ai-agenticai-aiops-share-7478608834459086848-YaWZ  
 **Category:** AI Infrastructure  
 **Tags:** AI, AgenticAI, AIOps, AIInfrastructure, AutonomousOperations, PlatformEngineering, ResponsibleAI, Observability, Governance
 
